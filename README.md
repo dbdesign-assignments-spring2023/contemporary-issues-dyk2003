@@ -1,3 +1,13 @@
-# Contemporary Issues In Data
+# The development of big data: efficiency gains for companies and potential dangers for users
 
-Welcome! Your writing assignment will be in this file.  See [the instructions](./instructions.md) for more details.
+The concept of big data has been around for a long time, and it can be said that this concept has completely changed the world. Through the following two articles, I will briefly introduce the impact of big data on users. These two articles hold opposite views on the impact of big data, and we can also analyze the characteristics of big data more intuitively and dialectically.
+
+## Article 1
+In Margarita Loktionova's [The Complete Guide to (Effective) Customer Analysis](https://www.semrush.com/blog/complete-guide-to-customer-analysis/), she introduced the concept, importance and steps of conducting analysis on customers. This data-based approach can generate more benefits for a company than conventional methods. Since it is much more expensive to acquire new customers than to retain old ones, it is more efficient to analyze old customers and improve products. Companies typically use segmentation of customers, collecting customer data, discovering customer pain points, defining buyer personas, and defining product-market fit to complete the analysis of customers.
+
+I think this method of analyzing customers can help a company in many ways. First of all, it can ensure that the company has the right marketing strategy - to clarify the target group of the product. Secondly, it can facilitate the research and renewal of products. And it is possible to attract new customers without increasing costs and while retaining old ones.
+
+## Article 2
+In contrast to the previous article, Will Hillier's [Is Big Data Dangerous?](https://careerfoundry.com/en/blog/data-analytics/is-big-data-dangerous/#what-are-the-risks-of-big-data) places more emphasis on the potential dangers that big data poses to people. The first thing he mentioned was the security of big data. For example, we often see news reports of companies or governments leaking the personal privacy of users. The more data a company or government holds, the higher the cost of maintaining the data. The next is ethical issues with big data, which the authors cite as an example for insurance companies. Insurance companies charge fees and restrictions based on customer behavior. For example, if a user has been in a car accident, that user's auto insurance premium will go up. Based on statistics over time, big data enables these companies to make more accurate predictions about the future, allowing them to conduct more invasive financial analysis.
+
+I think these are all issues that I will encounter in my life. While Big Data brings convenience to life, it also brings potential dangers. We should be sensitive to big data. Delete unnecessary information, for example. Check whether the data collection is in compliance with the regulations. By doing so, I believe that users can enjoy Big Data while avoiding the dangers it brings.
